@@ -53,19 +53,19 @@ Variabel-variabel pada Discovering Hidden Trends in Global Video Games dataset a
 
 ### Exploratory Data Analysis
 
-![](https://github.com/Dapperson/Machine-Learning-Terapan/blob/main/Proyek%20Akhir/Image/Platform.png)
+![](https://raw.githubusercontent.com/Dapperson/Recommender_System-Global_Video_Game/main/Image/Platform.png)
 
 $$Gambar\ 1.1\ Platform$$
 
-![](https://github.com/Dapperson/Machine-Learning-Terapan/blob/main/Proyek%20Akhir/Image/Publisher.png)
+![](https://raw.githubusercontent.com/Dapperson/Recommender_System-Global_Video_Game/main/Image/Publisher.png)
 
 $$Gambar\ 1.2\ Publisher$$
 
-![](https://github.com/Dapperson/Machine-Learning-Terapan/blob/main/Proyek%20Akhir/Image/Genre.png)
+![](https://raw.githubusercontent.com/Dapperson/Recommender_System-Global_Video_Game/main/Image/Genre.png)
 
 $$Gambar\ 1.3\ Genre$$
 
-![](https://github.com/Dapperson/Machine-Learning-Terapan/blob/main/Proyek%20Akhir/Image/Tahun%20Rilis.png)
+![](https://raw.githubusercontent.com/Dapperson/Recommender_System-Global_Video_Game/main/Image/Tahun%20Rilis.png)
 
 $$Gambar\ 1.4\ Year$$
 
@@ -150,7 +150,7 @@ Dari tabel $Tabel\ 2.1$ bisa dilihat bahwa model dapat merekomendasikan game unt
 
 Untuk evaluasi pada model ini sederhana saja dengan menggunakan rumus *precision* sebagai berikut
 
-![](https://github.com/Dapperson/Machine-Learning-Terapan/blob/main/Proyek%20Akhir/Image/Precision.jpeg)
+![](https://raw.githubusercontent.com/Dapperson/Recommender_System-Global_Video_Game/main/Image/Precision.jpeg)
 
 $$Gambar\ 2.1\ Rumus\ Precision$$
 
@@ -160,7 +160,7 @@ Berdasarkan $Gambar\ 2.1$ yang merupakan rumus dari precision, maka cara menghit
 
 Model ini menggunakan *Binary Crossentropy* untuk menghitung loss function, *Adam (Adaptive Moment Estimation)* sebagai optimizer, dan *Root Mean Squared Error (RMSE)* sebagai metrics evaluation. 
 
-![](https://github.com/Dapperson/Machine-Learning-Terapan/blob/main/Proyek%20Akhir/Image/RMSE.png)
+![](https://raw.githubusercontent.com/Dapperson/Recommender_System-Global_Video_Game/main/Image/RMSE.png)
 
 $Gambar\ 3.1\ Rumus\ RMSE\$
 
@@ -176,7 +176,7 @@ Kelebihan dari metriks ini adalah menghukum kesalahan besar lebih sehingga bisa 
 
 Berikut hasil visualisasi nya
 
-![](https://github.com/Dapperson/Machine-Learning-Terapan/blob/main/Proyek%20Akhir/Image/RSME%20Visualisasi.png)
+![](https://raw.githubusercontent.com/Dapperson/Recommender_System-Global_Video_Game/main/Image/RSME%20Visualisasi.png)
 
 $Gambar\ 3.2\ Visualisasi\ proses\ training$
 
